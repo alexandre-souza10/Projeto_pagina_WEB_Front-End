@@ -1,2 +1,2 @@
-# Projeto_Prototipo_de_pagina_WEB
-Um Prototipo de Pagina WEB em HTML e CSS
+# Projeto_Prototipo_pagina_WEB
+ Prototipo de Pagina WEB - Front End - em HTML e CSS
